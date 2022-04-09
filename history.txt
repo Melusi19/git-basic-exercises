@@ -1,0 +1,500 @@
+   46  git remote add origin https://github.com/Melusi19/rome.git
+   47  git push -u origin master
+   48  ls
+   49  cd Documents/
+   50  git clone https://github.com/tamiragun/capstone-git-user-search-app.git
+   51  cd Documents/
+   52  git clone https://github.com/PreshniChellan/Smart-React.git
+   53  cd Documents/
+   54  git clone https://github.com/PreshniChellan/Smart-React.git
+   55  git clone https://github.com/PreshniChellan/Smart-React.git
+   56  cd Documents/
+   57  git clone https://github.com/PreshniChellan/Smart-React.git
+   58  cd Documents/
+   59  git clone https://github.com/JewlsZA/react-hangman-game.git
+   60  cd Documents/
+   61  git clone https://github.com/PreshniChellan/Smart-React.git
+   62  pwd
+   63  ls
+   64  cd login-register/
+   65  ls
+   66  git init
+   67  git add .
+   68  git status
+   69  git commit -m "first commit"
+   70  git remote add origin https://github.com/Melusi19/Login.git
+   71  git push -u origin master
+   72  cd Documents/
+   73  git clone https://github.com/PreshniChellan/Smart-React.git
+   74  git clone https://github.com/PreshniChellan/Smart-React.git
+   75  pwd
+   76  ls
+   77  cd Downloads/
+   78  ls
+   79  ls
+   80  cd Documents/
+   81  ls
+   82  cd degrees
+   83  ls
+   84  git init
+   85  git add
+   86  git add .
+   87  git status
+   88  git commit -m 'first commit'
+   89  git remote add origin https://github.com/Melusi19/ai50-projects-2022-x-degrees.git
+   90  git push -u origin master
+   91  cd Documents
+   92  ls
+   93  cd 'AI With Python'/
+   94  ls
+   95  cd degrees
+   96  git init
+   97  git checkout -b ai50/projects/2020/x/degrees
+   98   git status
+   99  git status
+  100  git add degrees
+  101  git status
+  102  git commit -m "degrees"
+  103  git remote add https://github.com/me50/melusi19.git
+  104  git remote add origin https://github.com/me50/melusi19.git
+  105  git push origin --all
+  106  cd Documents
+  107  ls
+  108  cd AI With Python
+  109  cd 'AI With Python'
+  110  ls
+  111  cd tictactoe
+  112  git init
+  113  git checkout -b ai50/projects/2020/x/tictactoe
+  114   git status
+  115   git add tictactoe
+  116  git status
+  117  git commit -m "tictactoe"
+  118  git remote add https://github.com/me50/melusi19.git
+  119  git remote add origin https://github.com/me50/melusi19.git
+  120  git remote
+  121  git push origin --all
+  122  cd Documents
+  123  cd 'AI With Python'
+  124  ls
+  125  cd knights
+  126  git init
+  127  git checkout -b ai50/projects/2020/x/knights
+  128  git status
+  129  git add knights
+  130   git status
+  131  git commit -m "knights"
+  132  git remote add origin https://github.com/me50/melusi19.git
+  133  git remote
+  134  git push origin --all
+  135  cd Documents
+  136  cd 'AI With Python'
+  137  ls
+  138  cd minesweeper
+  139  ls
+  140  cd minesweeper
+  141  git init
+  142  git checkout -b ai50/projects/2020/x/minesweeper
+  143  git status
+  144  cd..
+  145  cd .
+  146  cd .
+  147  git status
+  148  cd documents
+  149  cd 'AI With Python'
+  150  cd minesweeper
+  151  git init
+  152  git checkout -b ai50/projects/2020/x/minesweeper
+  153  git status
+  154  git add minesweeper
+  155  git status
+  156  git add minesweeper/
+  157  sudo git add minesweeper
+  158  git status
+  159  git add 
+  160  git add 
+  161  git add minesweeper
+  162  git commit minesweeper
+  163  cd documents
+  164  cd 'AI With Python'
+  165  cd minesweeper
+  166  git status
+  167  git add minesweeper/
+  168  git add minesweeper
+  169  git remote add minesweeper
+  170  git status
+  171  git add 
+  172  git add minesweeper
+  173  sudo git add minesweeper
+  174  ls
+  175  git add minesweeper
+  176  git commit
+  177  git add minesweeper
+  178  git commit origin "minesweeper"
+  179  cd..
+  180  cd.
+  181  cd ./
+  182  cd ./
+  183  ls
+  184  git status
+  185  git add minesweeper
+  186  git status
+  187  git add         minesweeper/
+  188  git add minesweeper
+  189  cd/
+  190  cd..
+  191  git commit -m 'minesweeper'
+  192  git status
+  193  git commit -m 'minesweepr'
+  194  git remote add origin https://github.com/me50/melusi19.git
+  195  git remote
+  196  git push origin --all
+  197  git status
+  198  git init
+  199  git checkout -b ai50/projects/2020/x/minesweeper
+  200  git status
+  201  git add minesweeper
+  202  rm -rf .git
+  203  git init
+  204  git checkout -b ai50/projects/2020/x/minesweeper
+  205  git status
+  206  git add minesweeper
+  207  ls
+  208  cd minesweeper
+  209  ls
+  210  git add minesweeper.py
+  211  git status
+  212  git commit -m "minesweeper"
+  213  git remote add origin https://github.com/me50/melusi19.git
+  214  git remote
+  215  git push origin --all
+  216  cd documents
+  217  cd 'AI With Python'
+  218  cd pagerank
+  219  ls
+  220  git init
+  221  git checkout -b ai50/projects/2020/x/pagerank
+  222  git status
+  223  git add pagerank
+  224  git status
+  225  git commit -m "pagerank"
+  226  git remote add origin https://github.com/me50/melusi19.git
+  227  git remote
+  228  git push origin --all
+  229  cd documents
+  230  cd 'AI With Python'
+  231  cd hereditary
+  232  ls
+  233  cd heredity
+  234  git init
+  235  git checkout -b ai50/projects/2020/x/heredity
+  236  git status
+  237  git add heredity
+  238  git status
+  239  git commit -m "heredity"
+  240  git remote add origin https://github.com/me50/melusi19.git
+  241  git remote
+  242  git push origin --all
+  243  cd documents
+  244  cd 'AI With Python'
+  245  cd shopping
+  246  git init
+  247  git checkout -b ai50/projects/2020/x/shopping
+  248  git status
+  249  git add shopping
+  250  git status
+  251  git commit -m "shopping"
+  252  git remote add origin https://github.com/me50/melusi19.git
+  253  git origin
+  254   git remote
+  255  git push origin --all
+  256  cd documents
+  257  cd 'AI With Python'
+  258  cd nim
+  259  git init
+  260  git checkout -b ai50/projects/2020/x/nim
+  261  git status
+  262  git add nim
+  263  git status
+  264  git commit -m 'nim'
+  265  git remote add origin https://github.com/me50/melusi19.git
+  266  git remote
+  267  git push --all
+  268  cd documents
+  269  cd 'AI With Python'
+  270  cd parser
+  271  git init
+  272  git checkout -b ai50/projects/2020/x/parser
+  273  git status
+  274  git add parser
+  275  git status
+  276  git commit -m 'parser'
+  277  git remote add origin https://github.com/me50/melusi19.git
+  278  git remote
+  279  git push --all
+  280  cd documents
+  281  cd 'AI With Python'
+  282  cd question
+  283  cd questions
+  284  git init
+  285  git checkout -b ai50/projects/2020/x/questions
+  286  git status
+  287  git add questions
+  288  git status
+  289  git commit -m 'questions'
+  290  git remote add origin https://github.com/me50/melusi19.git
+  291  git remote
+  292  git push --all
+  293  cd Documents
+  294  cd 'AI With Python'
+  295  cd traffic
+  296  git init
+  297  git checkout -b ai50/projects/2020/x/traffic
+  298  git status
+  299  git add traffic
+  300  git status
+  301  git commit -m 'traffic'
+  302  git status
+  303  git add origin https://github.com/me50/melusi19.git
+  304  git remote add origin https://github.com/me50/melusi19.git
+  305  git remote
+  306  git push origin --all
+  307  cd documents
+  308  ls
+  309  ls /
+  310  cd ..
+  311  ls /
+  312  cd home
+  313  cd documents
+  314  cd home
+  315  cd desktop
+  316  mkdir git-basic-exercises
+  317  cd git-basic-exercises
+  318  ls -a
+  319  git init
+  320  ls -a
+  321  git status
+  322  touch README .md
+  323  ls -a
+  324  git status
+  325  git log
+  326  git add README .md
+  327  git status
+  328  git commit -m "initial commit"
+  329  cd desktop
+  330  mkdir git-basic-exercises
+  331  cd git-basic-exercises
+  332  ls -a
+  333  git init
+  334  ls -a
+  335  git status
+  336  touch README.md
+  337  ls -a
+  338  git status
+  339  git log
+  340  git add README.md
+  341  git status
+  342  git rm --cached README.md
+  343  git status
+  344  git commit -m "initial commit"
+  345  git add README.md
+  346  git status
+  347  git commit -m "initial commit"
+  348  git log
+  349  q
+  350  nano README.md
+  351  cat README.md
+  352  git status
+  353  git commit -m "second commit"
+  354  nano README.md
+  355  cat README.md
+  356  git status
+  357  git commit -m "third commit"
+  358  git log
+  359  git status
+  360  cat README.md
+  361  git status
+  362  git restore README.md
+  363  git status
+  364  cat README.md
+  365  git status
+  366  cd desktop
+  367  mkdir git-basic-exercises
+  368  cd git-basic-exercises
+  369  git status
+  370  ls -a
+  371  git init
+  372  ls -a
+  373  git status
+  374  touch README.md
+  375  ls -a
+  376  git status
+  377  git log
+  378  git add README.md
+  379  git status
+  380  git commit -m "initial commit"
+  381  git log
+  382  q
+  383  nano README.md
+  384  cat README.md
+  385  git status
+  386  git add README.md
+  387  git status
+  388  git commit -m "second commit"
+  389  nano README.md
+  390  cat README.md
+  391  git status
+  392  git add README.md
+  393  git commit -m "third commit"
+  394  git log
+  395  q
+  396  git checkout a5528e133afc818fdb6efb0b22a61e0eff60fab3
+  397  cat README.md
+  398  git checkout main
+  399  cat README.md
+  400  git branch
+  401  git checkout -b milkshake-flavours
+  402  git branch
+  403  nano milkshakes.md
+  404  nano milkshakes.md
+  405  git status
+  406  git add milkshakes.md
+  407  git commit -m "added initial flavours"
+  408  git log
+  409  git branch
+  410  git checkout master
+  411  git checkout -b history
+  412  git log
+  413  git branch
+  414  history > history.txt
+  415  git status
+  416  git add history.txt
+  417  git commit -m "added history"
+  418  git log
+  419  git branch
+  420  git checkout milkshake-flavours
+  421  git log
+  422  nano README.md
+  423  git status
+  424  git add README.md
+  425  git commit -m "random readme changes"
+  426  git checkout history
+  427  cat README.md
+  428  rm README.md
+  429  echo "booya" > README.md
+  430  git status
+  431  git add README.md
+  432  git commit -m "rewrote readme"
+  433  git checkout master
+  434  ls
+  435  git log
+  436  git checkout milkshake-flavours
+  437  ls
+  438  git log
+  439  git checkout history
+  440  ls
+  441  git log
+  442  git checkout master
+  443  git merge milkshake-flavours
+  444  ls
+  445  git log
+  446  ls
+  447  git log
+  448  git merge history
+  449  nano README.md
+  450  git status
+  451  git add README.md
+  452  git status
+  453  git commit -m "conflict changes"
+  454  git merge milkshake-flavours
+  455  ls
+  456  git log
+  457  git checkout history
+  458  git log
+  459  git checkout milkshake-flavours
+  460  git log
+  461  git remote add origin https://github.com/Melusi19/git-basic-exercises.git
+  462  git branch -M main
+  463  git push -u origin main
+  464  git checkout history
+  465  git remote add origin https://github.com/Melusi19/git-basic-exercises.git
+  466  git init
+  467  git status
+  468  git branch
+  469  git checkout master
+  470  ls
+  471  git checkout main
+  472  ls
+  473  ls
+  474  git remote add origin https://github.com/Melusi19/git-basic-exercises.git
+  475  cd ../
+  476  git clone https://github.com/Umuzi-org/a-repo-to-clone.git
+  477  cd a-repo-to-clone
+  478  git branch
+  479  git log
+  480  git branch -a
+  481  git checkout - b project/git-basic-exercises
+  482  git checkout remotes/origin/HEAD
+  483  LS
+  484  git checkout remotes/origin/a-branch-with-a-few-commits
+  485  ls
+  486  git checkout remotes/origin/main
+  487  ls
+  488  git branch
+  489  git checkout main
+  490  ls
+  491  git checkout master
+  492  ls
+  493  cd desktop
+  494  ls
+  495  cd a-repo-to-clone/
+  496  git branch
+  497  git log
+  498  git branch -a
+  499  cd desktop
+  500  mkdir git-basic-exercises
+  501  cd git-basic-exercises
+  502  ls -a
+  503  git init
+  504  ls -a
+  505  git status
+  506  touch README.md
+  507  ls -a
+  508  git status
+  509  git log
+  510  git add README.md
+  511  git status
+  512  git rm --cached README.md
+  513  git status
+  514  git add README.md
+  515  git status
+  516  git commit -m "initial commit"
+  517  git log
+  518  nano README.md
+  519  cat README.md
+  520  git status
+  521  git add README.md
+  522* 
+  523  nano README.md
+  524  cat README.md
+  525  git status
+  526  git add README.md
+  527  git commit -m "third commit"
+  528  git log
+  529  git checkout de241ea3ba7069733cfacb1066a73e0410496569
+  530  cat README.md
+  531  git checkout master
+  532  cat README.md
+  533  git branch
+  534  git checkout -b milkshake-flavours
+  535  git branch
+  536  nano milkshakes.md
+  537  git status
+  538  git add milkshakes.md
+  539  git commit -m "added initial flavours"
+  540  git log
+  541  git checkout master
+  542  git checkout -b history
+  543  git log
+  544  git branch
+  545  history > history.txt
